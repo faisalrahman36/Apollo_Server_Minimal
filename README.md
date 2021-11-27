@@ -6,10 +6,11 @@ An easy way to get started with JavaScript on the command line. [Read more about
 
 [![Edit minimal-react-webpack-babel-setup](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/rwieruch/minimal-node-application/tree/master/?fontsize=14)
 
-## Installation
+Ref: https://github.com/rwieruch/minimal-node-application
+## Installation (for this repo)
 
-* `git clone git@github.com:rwieruch/minimal-node-application.git`
-* `cd minimal-node-application`
+* `git clone https://github.com/faisalrahman36/Apollo_Server_Minimal.git
+* `cd Apollo_Server_Minimal`
 * `npm install`
 * `npm start`
 * optional: include *.env* in your *.gitignore*
